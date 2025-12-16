@@ -61,17 +61,12 @@ https://github.com/CoderVinit
 
 ---
 
-## 📂 AWS S3 File Upload System
+## 📂 Portfolio
 
-**Tech Stack:** Node.js, Express, AWS S3, Multer  
+**Tech Stack:** React  
 
-**Features:**
-- Secure file uploads to AWS S3
-- File metadata storage
-- Scalable upload service
-
-🔗 **Repository:**  
-https://github.com/CoderVinit  
+🔗 **Live Demo:**  
+https://portfolio-vueq.vercel.app/ 
 
 ---
 
@@ -84,6 +79,9 @@ https://github.com/CoderVinit
 ### Frontend
 **Tech Stack:** React.js  
 🔗 https://github.com/CoderVinit  
+
+** Live Demo **
+🔗 https://sports-scoreboard-frontend.onrender.com/
 
 **Features:**
 - Live score updates
@@ -103,6 +101,9 @@ https://github.com/CoderVinit
 
 🔗 **Repository:**  
 https://github.com/CoderVinit  
+
+🔗 ** Live Demo **
+https://chat-app-ten-ecru-78.vercel.app/
 
 ---
 
